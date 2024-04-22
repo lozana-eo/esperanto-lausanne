@@ -5,7 +5,7 @@ in_menu: true
 ---
 # Esperanto-lausanne.ch
 
-Accueil
+Accueil / Hejmpaĝo
 
 ![Baniere]({% link images/Image1.png %})
 
