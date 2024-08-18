@@ -4,6 +4,7 @@ order: 4
 in_menu: true
 ---
 Voici la liste des dernières feuilles mensuelles
+* [Informili Septembro]({% link images/2407 septembro.pdf %})
 * [Informili Junio]({% link images/2406 Junio.pdf %})
 * [Informilo Majo]({% link images/2405 Majo.pdf %})
 * [Informilo Aprilo]({% link images/2404 Aprilo.pdf %})
