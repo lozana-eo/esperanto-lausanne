@@ -4,6 +4,7 @@ order: 4
 in_menu: true
 ---
 Voici la liste des dernières feuilles mensuelles
+* [Informili Decembro]({% link images/2412 decembro.pdf %})
 * [Informili Novembro]({% link images/2411Novembro.pdf %})
 * [Informili Octobro]({% link images/2410Octobro.pdf %})
 * [Informili Septembro]({% link images/2407 septembro.pdf %})
