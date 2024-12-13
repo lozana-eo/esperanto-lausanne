@@ -5,6 +5,7 @@ in_menu: true
 ---
 Voici la liste des dernières feuilles mensuelles
 * [Informili Januaro 2025]({% link images/2501 Januaro.pdf %})
+
 * [Informili Decembro]({% link images/2412 decembro.pdf %})
 * [Informili Novembro]({% link images/2411Novembro.pdf %})
 * [Informili Octobro]({% link images/2410Octobro.pdf %})
